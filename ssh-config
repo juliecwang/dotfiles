@@ -1,0 +1,7 @@
+# CAEN 
+Host julie
+	HostName login.engin.umich.edu
+	User wangjuli
+	Compression yes 
+
+
